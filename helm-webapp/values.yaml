@@ -1,7 +1,7 @@
 appName: myhelmapp
 
 port: 80
-
+replicas: 7
 configmap:
   name: myhelmapp-configmap-v1
   data:
