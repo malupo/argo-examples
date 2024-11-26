@@ -3,4 +3,4 @@ replicas: 6
 
 configmap:
   data:
-    CUSTOM_HEADER: 'This is on the DEV environment! --just changed back to 6 pods!!!!!!!!!!!!!!!!!!'
+    CUSTOM_HEADER: 'This is on the DEV environment!--original'
